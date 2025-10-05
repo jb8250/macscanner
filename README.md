@@ -1,6 +1,6 @@
 # macscanner.py - macOS Security Scanner Explanation
 
-Your `macscanner.py` is a comprehensive macOS security scanner that performs automated threat analysis using AI. Here's what it does:
+`macscanner.py` is a comprehensive macOS security scanner that performs automated threat analysis using AI. Here's what it does:
 
 ## Core Purpose
 - Scans your macOS system for potential security threats
